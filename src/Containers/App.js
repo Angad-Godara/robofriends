@@ -1,8 +1,8 @@
 import React from "react";
-import CardList from "../components/CardList";
-import Searchbox from "../components/Searchbox";
-import Errorboundary from "../components/Errorboundary";
-import Scroll from "../components/Scroll";
+import CardList from "../Components/CardList";
+import Searchbox from "../Components/Searchbox";
+import Errorboundary from "../Components/Errorboundary";
+import Scroll from "../Components/Scroll";
 import { Component } from "react/cjs/react.production.min";
 import './App.css'
 
